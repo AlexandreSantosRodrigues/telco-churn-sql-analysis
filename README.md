@@ -85,8 +85,7 @@ acionáveis para times de retenção de clientes.
 
 ## 📁 Estrutura do Projeto
 
-telco-churn-sql-analysis/ │ ├── telco_churn_analysis.sql # Queries completas (CTEs + Window Functions) └── README.md # Documentação e insights
-
+telco-churn-sql-analysis/ │ ├── telco_churn_analysis.ipynb # Notebook com queries e resultados (CTEs + Window Functions) └── README.md # Documentação e insights
 
 ---
 
